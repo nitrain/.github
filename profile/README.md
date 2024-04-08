@@ -1,0 +1,1 @@
+Nitrain is the easiest way to train medical imaging AI models locally or in the cloud using any of your favorite frameworks.
