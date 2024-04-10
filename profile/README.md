@@ -2,4 +2,4 @@ Nitrain is the easiest way to train medical imaging AI models locally or in the 
 
 To learn more about nitrain and view complete examples of training medical imaging AI models, view the `tutorials` repository.
 
-If you're interested in learning about the entire medical imaging AI workflow, you can check out the book "Becoming a medical imaging AI expert with nitrain" in the `book` repository or at [book.nitrain.dev](https://book.nitrain.dev).
+If you're interested in learning about the entire medical imaging AI workflow, you can check out the book "Becoming a medical imaging AI expert with Python" in the `book` repository or at [book.nitrain.dev](https://book.nitrain.dev).
